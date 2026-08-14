@@ -1,24 +1,24 @@
-﻿Name,Family,Land,Crops,Vehicles,,Area,Job Status,,
-Amanpreet Kaur,0,1,Guava,1,,nawanshahr,1,6,0
-Tammana,0,1,Wheat,3,1,nawanshahr,4,5,0
-Gurpreet,0,1,Wheat,3,1,Anandpur sahib,1,4,0
-Harshit Obroe,0,0,,4,0,Ropar,0,4,1
-Harpreet Singh Mann,0,9,Wheat,3,3,Balachour,5,2,0
-Vansh,5,0,,3,1,Ropar,2,3,0
-Karanveer,5,2,Rice,1,2,Ropar,0,1,4
-Himanshi,4,2,Wheat,2,0,garhshankar,1,3,0
-Sonia,4,2,Rice,2,1,garhshankar,1,2,0
-Anshika,5,3,Tree,1,1,garhshankar,1,4,0
-Jasmin,4,1,Bajra,2,0,garhshankar,2,2,0
-Harman,4,1,Safeda,2,0,garhshankar,1,3,0
-Sandhiya,4,2,Safeda,3,2,garhshankar,0,0,4
-Harpreet  ,4,2,Guava,2,0,garhshankar,1,3,0
-Sania ,4,3,Wheat,2,0,garhshankar,2,2,0
-Palak,4,2,Rice,2,2,garhshankar,1,3,0
-Jaspreet,4,10,Guava,2,1,garhshankar,2,2,0
-Tanbir ,5,5,Pupolr tree,3,1,Ropar,0,2,2
-Amanpal,4,2,Rice,1,,Ropar,1,3,0
-Pavanpal,4,0,,1,0,Ropar,1,3,0
-Muskan,4,5,Rice,2,0,garhshankar,1,3,0
-Damini,6,6,Wheat,4,1,Zirkpur,2,4,0
-Jasmin,4,0,,2,0,garhshankar,2,2,0
+﻿Name,Family,Land,Crops,Vehicles,Area,Emplyed,Unemployed
+Amanpreet Kaur,0,1,Guava,1,nawanshahr,1,6
+Tammana,0,1,Wheat,4,nawanshahr,4,5
+Gurpreet,0,1,Wheat,4,Anandpur sahib,1,4
+Harshit Obroe,0,0,,4,Ropar,1,4
+Harpreet Singh Mann,0,9,Wheat,6,Balachour,5,2
+Vansh,5,0,,4,Ropar,2,3
+Karanveer,5,2,Rice,3,Ropar,4,1
+Himanshi,4,2,Wheat,2,garhshankar,1,3
+Sonia,4,2,Rice,3,garhshankar,1,2
+Anshika,5,3,Tree,2,garhshankar,1,4
+Jasmin,4,1,Bajra,2,garhshankar,2,2
+Harman,4,1,Safeda,2,garhshankar,1,3
+Sandhiya,4,2,Safeda,5,garhshankar,4,0
+Harpreet  ,4,2,Guava,2,garhshankar,1,3
+Sania ,4,3,Wheat,2,garhshankar,2,2
+Palak,4,2,Rice,4,garhshankar,1,3
+Jaspreet,4,10,Guava,3,garhshankar,2,2
+Tanbir ,5,5,Pupolr tree,4,Ropar,2,2
+Amanpal,4,2,Rice,1,Ropar,1,3
+Pavanpal,4,0,,1,Ropar,1,3
+Muskan,4,5,Rice,2,garhshankar,1,3
+Damini,6,6,Wheat,5,Zirkpur,2,4
+Jasmin,4,0,,2,garhshankar,2,2
